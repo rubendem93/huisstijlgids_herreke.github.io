@@ -5,8 +5,16 @@
 }
 
 img{
-	width:60%;
+	width:100%;
 	padding:70px 0 3%;
+}
+
+.mascotte{
+	width:70%;
+}
+
+.mascotteverjaardag{
+	width:50%;
 }
 
 .titelsite{
@@ -95,7 +103,6 @@ li{
   position: relative;
   color:#662b14;
   text-decoration: none;
-text-transform: uppercase;
 }
 
 .download:visited{
@@ -131,5 +138,27 @@ text-transform: uppercase;
   -webkit-transform: scaleX(1);
   transform: scaleX(1);
 	text-decoration: none;
+}
+
+td{
+	padding:5px;}
+
+th{
+	background-color: #662b14;
+	text-align:center;
+	color:#fff;
+	border:5px solid  #662b14;
+	font-weight:800;
+	text-transform: uppercase;
+}
+
+.kleurversie{
+	border:5px solid #662b14;
+	text-align:center;
+}
+
+.logoversie{
+	border:5px solid #662b14;
+	text-align:center;
 }
 
